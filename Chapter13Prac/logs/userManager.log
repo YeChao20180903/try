@@ -1,0 +1,192 @@
+2019-05-09 00:54:26.161 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:54:26.173 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:54:26.248 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:54:26.256 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:54:26.295 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:54:26.296 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 00:54:26.300 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量: 5
+2019-05-09 00:55:37.004 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:55:37.014 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:55:37.096 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:55:37.105 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:55:37.172 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:55:37.172 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 00:55:37.173 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量: 5
+2019-05-09 00:56:29.186 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:56:29.205 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:56:29.281 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:56:29.288 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:56:29.331 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:56:29.331 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 00:56:29.334 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量: 5
+2019-05-09 00:57:12.435 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:57:12.444 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:57:12.506 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:57:12.514 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 00:57:12.574 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 00:57:12.574 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 00:57:12.577 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量: 5
+2019-05-09 01:06:23.502 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:06:23.516 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:06:23.581 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:06:23.589 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:06:23.635 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:06:23.644 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:06:23.686 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:06:23.686 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:06:23.688 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量: 7
+2019-05-09 01:10:06.038 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:10:06.044 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:10:06.131 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:10:06.139 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:10:06.193 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:10:06.201 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:10:06.246 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:10:06.246 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:10:06.248 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量: 8
+2019-05-09 01:21:33.182 [main] INFO  com.course.Application - Starting Application on CALPRNYAW0809GG with PID 15664 (D:\springboot\Chapter13Prac\target\classes started by Administrator in D:\springboot\Chapter13Prac)
+2019-05-09 01:21:33.185 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2019-05-09 01:21:33.237 [main] INFO  o.s.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@74f0ea28: startup date [Thu May 09 01:21:33 CST 2019]; root of context hierarchy
+2019-05-09 01:21:34.098 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-05-09 01:21:34.414 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$731dd509] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-09 01:21:34.634 [main] INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8888 (http)
+2019-05-09 01:21:34.642 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-05-09 01:21:34.643 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-05-09 01:21:34.760 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-05-09 01:21:34.761 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1525 ms
+2019-05-09 01:21:34.892 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2019-05-09 01:21:34.895 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-05-09 01:21:34.895 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-05-09 01:21:34.895 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-05-09 01:21:34.896 [localhost-startStop-1] INFO  org.springframework.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2019-05-09 01:21:35.640 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/v1/getUserInfo],methods=[POST]}" onto public java.util.List<com.course.model.User1> com.course.controller.UserManager.getUserInfo(javax.servlet.http.HttpServletRequest,com.course.model.User1)
+2019-05-09 01:21:35.641 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/v1/addUser],methods=[POST]}" onto public boolean com.course.controller.UserManager.addUser(javax.servlet.http.HttpServletRequest,com.course.model.User1)
+2019-05-09 01:21:35.641 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/v1/updateUserInfo],methods=[POST]}" onto public int com.course.controller.UserManager.updateUserInfo(javax.servlet.http.HttpServletRequest,com.course.model.User1)
+2019-05-09 01:21:35.641 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/v1/login],methods=[POST]}" onto public boolean com.course.controller.UserManager.login(javax.servlet.http.HttpServletResponse,com.course.model.User1)
+2019-05-09 01:21:35.642 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)
+2019-05-09 01:21:35.644 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2019-05-09 01:21:35.645 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2019-05-09 01:21:35.646 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2019-05-09 01:21:35.648 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-05-09 01:21:35.648 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-05-09 01:21:35.794 [main] INFO  o.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@74f0ea28: startup date [Thu May 09 01:21:33 CST 2019]; root of context hierarchy
+2019-05-09 01:21:35.840 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-05-09 01:21:35.841 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-05-09 01:21:35.877 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-05-09 01:21:36.072 [main] INFO  org.springframework.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-05-09 01:21:36.079 [main] INFO  org.springframework.context.support.DefaultLifecycleProcessor - Starting beans in phase 2147483647
+2019-05-09 01:21:36.079 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-05-09 01:21:36.091 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-05-09 01:21:36.101 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-05-09 01:21:36.377 [main] INFO  org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8888 (http)
+2019-05-09 01:21:36.381 [main] INFO  com.course.Application - Started Application in 3.535 seconds (JVM running for 4.739)
+2019-05-09 01:23:32.068 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-05-09 01:23:32.068 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2019-05-09 01:23:32.087 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 19 ms
+2019-05-09 01:23:32.605 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:32.629 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:23:32.710 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:32.718 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:23:32.756 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:32.764 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:23:32.809 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:32.809 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:23:32.814 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:23:38.503 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:38.509 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:23:38.591 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:38.599 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:23:38.679 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:38.687 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:23:38.748 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:23:38.748 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:23:38.750 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:25:10.066 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:25:10.072 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:25:10.155 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:25:10.168 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:25:10.250 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:25:10.259 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:25:10.331 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:25:10.332 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:25:10.335 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:31:32.659 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:31:32.674 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:31:32.781 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:31:32.786 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:31:32.861 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:31:32.870 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:31:32.975 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:31:32.976 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:31:32.979 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:32:03.827 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:32:03.839 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:32:03.912 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:32:03.920 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:32:03.961 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:32:03.969 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:32:04.007 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:32:04.007 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:32:04.009 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:35:10.812 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:35:10.828 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:35:10.925 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:35:10.930 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:35:10.999 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:35:11.005 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:35:11.056 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:35:11.056 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:35:11.058 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:41:27.790 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:41:27.795 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:41:27.872 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:41:27.879 [http-nio-8888-exec-6] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:41:27.932 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:41:27.932 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:41:27.934 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量: 13
+2019-05-09 01:42:00.750 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:42:00.755 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:42:00.820 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:42:00.828 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:42:00.887 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:42:00.887 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:42:00.889 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量: 13
+2019-05-09 01:44:15.729 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:44:15.736 [http-nio-8888-exec-7] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:44:15.805 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:44:15.817 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:44:15.852 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:44:15.853 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:44:15.858 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量: 13
+2019-05-09 01:45:31.025 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:45:31.037 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:45:31.099 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:45:31.108 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:45:31.159 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:45:31.159 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:45:31.162 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量: 13
+2019-05-09 01:52:11.078 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:52:11.100 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:52:11.170 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:52:11.181 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:52:11.216 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:52:11.216 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:52:11.218 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量: 13
+2019-05-09 01:52:11.268 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:52:11.277 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:52:11.321 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:52:11.321 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:52:11.322 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
+2019-05-09 01:52:14.016 [http-nio-8888-exec-5] WARN  org.springframework.web.servlet.PageNotFound - Request method 'GET' not supported
+2019-05-09 01:57:07.734 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:57:07.740 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:57:07.811 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:57:07.821 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - 更新用户数为: 1
+2019-05-09 01:57:07.855 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:57:07.855 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:57:07.859 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量: 5
+2019-05-09 01:57:07.913 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:57:07.920 [http-nio-8888-exec-4] INFO  com.course.controller.UserManager - 添加用户成功
+2019-05-09 01:57:07.954 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - Cookies信息验证成功！
+2019-05-09 01:57:07.954 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 验证Cookies信息成功
+2019-05-09 01:57:07.956 [http-nio-8888-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量: 1
